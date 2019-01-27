@@ -1,0 +1,74 @@
+body {
+    background-color: #231F20;
+    color: white;
+    font-family: "Krub", sans-serif;
+}
+
+header {
+	background-image: url(https://unsplash.com/photos/4yCXNMLP9g8);
+	background-size: cover;
+	font-family: 'Khula', sans-serif;
+
+}
+
+section {
+      background: #231F20;
+      
+}
+
+
+.strong-text {
+    font-weight: 700;
+}
+
+.title-img {
+    width: 75%;
+}
+
+.top {
+	font-family: 'Khula', sans-serif;
+}
+
+.theme {
+	font-family: "Helvetica", sans-serif !important;
+    line-height:1.6;
+    color: #BDC3C7;
+}
+
+.questions {
+	display: grid;
+	grid-template-rows: auto auto;
+	grid-template-columns: 50% 50%;
+}
+
+.question {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	max-width: 500px;
+	font-size: 1.1em;
+	line-height: 1.2em;
+}
+
+.homepage {
+	padding: 20%;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+}
+
+.hackathon_name {
+	font-size: 80px;
+}
+
+.subheading {
+	font-size: 45px;
+}
+
+.logo {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+
